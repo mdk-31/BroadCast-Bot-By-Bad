@@ -33,8 +33,8 @@ const dateFormat = require('dateformat');
 ///////////Bad - بدرو
 
 
-const prefix = "البرفيكس حقك هنا"
-const developers = "ايديك هنا"
+const prefix = "M"
+const developers = "296247796149780480"
 
 
 client.on("ready", () => {
